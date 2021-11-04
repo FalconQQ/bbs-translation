@@ -1,6 +1,6 @@
 {
     "activity": "Activity",
-    "welcomeBoxTitle": "Welcome to {{ displayName }}",
+    "welcomeBoxTitle": "欢迎来到 {{ displayName }}",
     "welcomeBoxSubtitle": "A new type of message board that rewards users for quality posts",
     "welcomeBoxBullet1": "Every post has a banner you can bid on",
     "welcomeBoxBullet2": "The top bidder on each posts controls the banner",
